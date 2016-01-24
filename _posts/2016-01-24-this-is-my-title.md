@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Check out some of the work we've done!"
-datePublished: '2016-01-24T16:09:29.314Z'
+datePublished: '2016-01-24T16:09:29.318Z'
 dateModified: '2016-01-24T16:09:27.125Z'
 title: This is my title
 author: []
