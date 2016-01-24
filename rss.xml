@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Velocity Communications]]></title>
         <description><![CDATA[Velocity Communications]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/velocitycommunications/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 15:30:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 15:44:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/velocitycommunications/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We're dedicated to social — it's all we do. Discover how our commitment and creativity can grow your business.</p>]]></description>
-            <link>undefined5d87184a-8bb1-4758-bb9a-f17cd83135bb/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/511e03c9-0ed6-49d1-8d38-fdf34554eca1.jpg">]]></description>
+            <link>https://thegrid.ai/velocitycommunications/5d87184a-8bb1-4758-bb9a-f17cd83135bb/index.html</link>
             <guid isPermaLink="false">5d87184a-8bb1-4758-bb9a-f17cd83135bb</guid>
-            <pubDate>Sun, 24 Jan 2016 15:30:32 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 15:44:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
