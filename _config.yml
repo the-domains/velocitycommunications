@@ -1,0 +1,28 @@
+name: VelocityCommunications
+favicon: null
+layout_spectrum: 0.7715722853317857
+typography_spectrum: 0.9047199382912368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9601643967907876
+  lightness: 0.24317409237846732
+  saturation: 0.6046383935026824
+  rhythmicContrast: 0.46295669907703996
+purpose: []
